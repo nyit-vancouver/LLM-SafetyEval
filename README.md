@@ -4,7 +4,7 @@ While rapid advancements in Large Language Models (LLMs) have made the deploymen
 
 # Paper
 
-Chia-Hao Lin, A. Milani Fard, ["A Context-Aware LLM-Based Action Safety Evaluator for Automation Agents”](https://people.ece.ubc.ca/aminmf/LLM_SafetyEval_CanadianAI2025.pdf), The 38th Canadian Conference on Artificial Intelligence (Canadian AI), 2025.
+C. Lin, A. Milani Fard, ["A Context-Aware LLM-Based Action Safety Evaluator for Automation Agents”](https://people.ece.ubc.ca/aminmf/LLM_SafetyEval_CanadianAI2025.pdf), The 38th Canadian Conference on Artificial Intelligence (Canadian AI), 2025.
 
 
 # Citation
